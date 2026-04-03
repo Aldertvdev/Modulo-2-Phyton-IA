@@ -19,3 +19,5 @@ Usar bibliotecas (ex: pandas, requests – mas no Pydroid 3 algumas não funcion
 Refatorar código (melhorar código ruim)
 Gerar funções, classes básicas
 - 4 Exemplos práticos comuns no Módulo 2
+
+# Exemplo 1: Funções básicas (muito usado com IA
