@@ -130,3 +130,4 @@ def calculadora():
 
 calculadora()
 ```
+Gostou? volte no [Curso inteligente com IA](https://github.com/Aldertvdev/Curso-Python-com-IA)
